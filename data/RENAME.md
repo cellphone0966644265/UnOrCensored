@@ -1,0 +1,1 @@
+Thư mục này chứa dữ liệu (ảnh, video) dùng cho việc huấn luyện (training) các mô hình AI.

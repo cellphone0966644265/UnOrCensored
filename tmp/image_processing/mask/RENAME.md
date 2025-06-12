@@ -1,0 +1,1 @@
+Chứa file mặt nạ (mask.png) được tạo ra cho ảnh đang xử lý.

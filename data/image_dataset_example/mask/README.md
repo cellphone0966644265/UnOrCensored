@@ -1,0 +1,1 @@
+Chứa các ảnh mặt nạ tương ứng.

@@ -1,0 +1,1 @@
+Thư mục ví dụ cho dữ liệu dạng ảnh. Hãy trỏ '--data_path' vào đây khi huấn luyện các model ảnh.

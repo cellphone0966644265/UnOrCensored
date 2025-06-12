@@ -1,0 +1,1 @@
+Chứa file âm thanh được tách ra từ mỗi chunk video.

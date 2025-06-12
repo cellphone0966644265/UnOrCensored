@@ -1,0 +1,1 @@
+Chứa ảnh đầu vào (input.png) đang được xử lý.

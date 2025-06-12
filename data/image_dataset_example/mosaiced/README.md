@@ -1,0 +1,1 @@
+Thư mục này sẽ được script 'train.py' tự động tạo ra để chứa các ảnh đã được làm mờ khi huấn luyện model 'clean_youknow_image'.

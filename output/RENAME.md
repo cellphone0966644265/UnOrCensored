@@ -1,0 +1,1 @@
+Thư mục này chứa các file ảnh hoặc video là kết quả cuối cùng sau khi đã xử lý bởi AI.

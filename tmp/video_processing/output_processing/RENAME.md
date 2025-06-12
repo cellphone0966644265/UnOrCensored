@@ -1,0 +1,1 @@
+Chứa các đoạn video đã xử lý (start.mp4, split_*_processed.mp4, end.mp4) sẵn sàng để ghép lại.

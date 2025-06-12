@@ -1,0 +1,16 @@
+# --- Core Deep Learning ---
+torch
+torchvision
+
+# --- Image/Video Processing ---
+opencv-python-headless
+numpy
+
+# --- Utilities ---
+gdown
+PyYAML
+tqdm
+scikit-image
+
+# --- Flask for potential server deployment ---
+Flask

@@ -1,0 +1,1 @@
+Thư mục ví dụ cho dữ liệu dạng video. Mỗi thư mục con (clip_01, clip_02...) là một video đã được trích xuất thành chuỗi các frame.

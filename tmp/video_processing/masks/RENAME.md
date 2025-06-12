@@ -1,0 +1,1 @@
+Chứa các file mặt nạ được tạo ra cho từng khung hình video.

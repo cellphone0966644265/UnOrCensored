@@ -1,0 +1,1 @@
+Chứa file ảnh đã được xử lý AI.

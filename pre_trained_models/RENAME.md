@@ -1,0 +1,1 @@
+Thư mục này chứa các file model đã được huấn luyện sẵn (.pth) và file cấu trúc tương ứng (.yaml).

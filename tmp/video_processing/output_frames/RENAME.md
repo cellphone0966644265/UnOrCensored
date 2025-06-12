@@ -1,0 +1,1 @@
+Chứa các khung hình đã được AI xử lý.

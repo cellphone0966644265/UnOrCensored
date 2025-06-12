@@ -1,0 +1,1 @@
+Thư mục chứa các frame của một video clip. Hãy trỏ '--data_path' vào thư mục cha ('video_dataset_example') khi huấn luyện model video.

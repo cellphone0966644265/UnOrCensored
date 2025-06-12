@@ -1,0 +1,1 @@
+Chứa các khung hình (frame) đã được giải mã từ mỗi chunk video.
